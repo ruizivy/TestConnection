@@ -1,0 +1,1 @@
+c:\users\ruiz\documents\visual studio 2012\Projects\TestConnection\TestConnection\bin\Debug\TestConnection.exe.config
